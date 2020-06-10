@@ -1,4 +1,4 @@
-# vue_king
+# vue_ticket
 
 > A Vue.js project
 
